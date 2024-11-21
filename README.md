@@ -7,7 +7,6 @@ Full Stack Software Developer
 Full stack developer with over 4 years of professional experience. Passionate about developing solutions that deliver high value to users and clients, both internal and external. Experienced with working in full stack environments with an emphasis on UI/UX.
 
 * 🌍  I'm based in Kingston, ON
-* ✉️  You can contact me at [kim@kimtnguyen.com](mailto:kim@kimtnguyen.com)
 
 ### Skills
 
